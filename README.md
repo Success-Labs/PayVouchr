@@ -118,7 +118,7 @@ Full parameter types, return values, and error conditions are documented in [doc
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/<your-org>/vouchr.git
+git clone https://github.com/Success-Labs/PayVouchr.git
 cd vouchr
 ```
 

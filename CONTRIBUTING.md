@@ -61,7 +61,7 @@ If you are unsure where to start, look for issues tagged `good first issue` or `
 
 ```bash
 # Fork the repo on GitHub, then:
-git clone https://github.com/<your-username>/vouchr.git
+git clone https://github.com/Success-Labs/PayVouchr.git
 cd vouchr
 
 # Add the upstream remote
