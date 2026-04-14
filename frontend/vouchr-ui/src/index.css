@@ -1,0 +1,7 @@
+*, *::before, *::after { box-sizing: border-box; }
+body { font-family: system-ui, sans-serif; margin: 0; background: #fafafa; color: #111; }
+input, button { font-size: 1rem; padding: 0.5rem 0.75rem; border-radius: 6px; border: 1px solid #ccc; }
+button { background: #6c47ff; color: #fff; border: none; cursor: pointer; }
+button:hover { background: #5535e0; }
+label { display: block; margin-bottom: 0.25rem; font-weight: 500; }
+.field { margin-bottom: 1rem; }
